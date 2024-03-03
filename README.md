@@ -7,7 +7,7 @@
 - Office: N-center, 86335
 - Web: [Cocoan lab](http://cocoanlab.github.io)
 - E-mail: please send the message through iCampus or send me an email to choongwan.woo at gmail dot com
-- Class: Mon 1:30-2:45, Wed 12:00-1:15 (flipped class: online recording + offline activity)
+- Class: (online) Mon 1:30-2:45, **(offline) Wed 12:00-1:15** (flipped class)
 
 ## What are the aims of this course?
 
@@ -59,9 +59,9 @@ PR: pre-recording | OF: offline | A: activity | V: video
 Week  | Video lectures | Class | Chapters or papers
 ------| ------ | ----- | --------
 **Week 1** |
-|3/4  | (OF) V00: Course overview | | |
-|      | (PR) [V01: Data](https://youtu.be/hkMrXhG0ot0) | | Ch.1-2  |
-|3/6  | (OF) A01: Cognitive Errors and Statistical thinking | | Tversky & Kahneman, 1974 |
+|3/4  | (PR) [V01: Data](https://youtu.be/hkMrXhG0ot0) | | Ch.1-2  |
+|3/6  | (OF) Course overview  | | |
+|     | A01: Cognitive Errors and Statistical thinking | | Tversky & Kahneman, 1974 |
 **Week 2** | | | |
 |3/11  | (PR) V02: Data visualization |  | Ch.2-3  |
 |     | (PR) V03: Comparing distribution | | Ch.4  |
@@ -70,49 +70,49 @@ Week  | Video lectures | Class | Chapters or papers
 |3/18 | (PR) V04: Normal model | | Ch.5  |
 |     | (PR) V05: Scatterplots and correlation  |  | Ch.6   |
 |3/20 | (PR) V06: Linear regression | |Ch.7|
-|    | (PR) V07: More about regression, re-expressing data | | Ch.8-9  |
 **Week 4** | | | |
-|3/25 | (OF) A03: Normal Probability Plot  |  | |
-|3/27 | (OF) A04: Regression to the mean  |  | |
+|3/25    | (PR) V07: More about regression, re-expressing data | | Ch.8-9  |
+|3/27 | (OF) A03: Normal Probability Plot  |  | |
 **Week 5** | | | |
 |4/1 | (PR) V08: Sampling | | Ch.8-9  |
 |     | (PR) V09: Design Experiment | | Ch.11-12  |
-|4/3 | (OF) A05: Review, Q&A, and Designing Experiment
+|4/3 | (OF) A04: Regression to the mean  |  | |
 **Week 6** | | | |
 |4/8 | (PR) V10: Probability and Bayes theorem |  | Ch.13-14  |
 |    | (PR) V11: Random variables | | Ch.15  |
-|4/10 | (OF) A06: Bayes theorem and random variables | | |
+|4/10 | (OF) A05: Review, Q&A, and Designing Experiment
 **Week 7** | | | |
 |4/15 | (PR) V12: Probability models | | Ch.16  |
-|4/17 | (PR) V13: Softwares and programming languages | | |
+|4/17 | (OF) A06: Bayes theorem and random variables | | |
 **Week 8** | | | |
 |4/22-4/24 | Midterm |  |  |
 **Week 9** | | | |
-|4/29 | (PR) V14: Sampling distribution, central limit theorem |  | Ch.17  |
-|5/1 | (OF) A07: Probability models |   |  |
+|4/29 | (PR) V13: Softwares and programming languages | | |
+|5/1 | (PR) V14: Sampling distribution, central limit theorem |  | Ch.17  |
 **Week 10** | | | |
 |5/6 | (PR) V15: Confidence interval for proportions  |  | Ch.18  |
 |  | (PR) V16: Hypothesis testing, P-values |  | Ch.19 |
-|5/8 |  (OF) A08: Central limit theorem (led by TAs)|  | |
+|5/8 | (OF) A07: Probability models |   |  |
 **Week 11** | | | |
 |5/13 |  (PR) V17: Inferences about means |  | Ch.20 | 
-|    |  (PR) V18: More about tests and intervals  |  | Ch. 21| 
+|     |  (PR) V18: More about tests and intervals  |  | Ch. 21| 
 |5/15 | 석가탄신일  |  |  | 
 **Week 12** | | | |
 |5/20|  (PR) V19:Comparing groups  | | Ch. 22  |
 |    |  (PR) V20: Paired t-test |  | Ch. 23  |
-|5/22 |  (OF) A09: Quiz review & survey making | | |
+|5/22 |  (OF) A08: Central limit theorem  |  | |
 **Week 13** | | | |
 |5/27 | (PR) V21: Comparing counts | | Ch. 24 |
 |     | (PR) V22: Inferences about regression |  | Ch. 25|
-|5/29|  (OF) A10: t-test  | | | 
+|5/29 |  (OF) A09: Quiz review & survey making | | |
 **Week 14** | | | |
 |6/3 |(PR) V23: Analysis of Variance (ANOVA) |  | Ch. 26  |
 |     | (PR) V24: Multifactor ANOVA | | Ch. 27  |
-|6/5 | (OF) A11: chi-square and regression | | |
+|6/5|  (OF) A10: t-test  | | | 
 **Week 15** | | | |
 |6/10  | (PR) V25: Multiple regression | | Ch.28  |
-|6/12 | (PR) V26: Multiple regression wisdom | | Ch. 29|
+|    | (PR) V26: Multiple regression wisdom | | Ch. 29|
+|6/12 | (OF) A11: chi-square and regression | | |
 **Week 16** | | | |
 |6/5-6/7 | Final | | |
 
