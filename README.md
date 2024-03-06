@@ -113,7 +113,7 @@ Week  | Video lectures | Class | Chapters or papers
 |    | (PR) V26: Multiple regression wisdom | | Ch. 29|
 |6/12 | (OF) A10: chi-square and regression | | |
 **Week 16** | | | |
-|6/5-6/7 | Final | | |
+|6/19 | Final | | |
 
 _Note._ <br> 
 
