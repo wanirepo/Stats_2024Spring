@@ -79,10 +79,10 @@ Week  | Video lectures | Class | Chapters or papers
 **Week 6** | | | |
 |4/8 | (PR) V10: Probability and Bayes theorem |  | Ch.13-14  |
 |    | (PR) V11: Random variables | | Ch.15  |
-|4/10 | (OF) A04: Regression to the mean  |  | |
+|4/10 | 국회의원 선거 | | |
 **Week 7** | | | |
 |4/15 | (PR) V12: Probability models | | Ch.16  |
-|4/17 | (OF) A05: Bayes theorem and random variables | | |
+|4/17 | (OF) A04: Regression to the mean  |  | |
 **Week 8** | | | |
 |4/22-4/24 | Midterm |  |  |
 **Week 9** | | | |
@@ -91,7 +91,7 @@ Week  | Video lectures | Class | Chapters or papers
 **Week 10** | | | |
 |5/6 | (PR) V15: Confidence interval for proportions  |  | Ch.18  |
 |  | (PR) V16: Hypothesis testing, P-values |  | Ch.19 |
-|5/8 | (OF) A06: Probability models |   |  |
+|5/8 | (OF) A05: Bayes theorem and random variables | | |
 **Week 11** | | | |
 |5/13 |  (PR) V17: Inferences about means |  | Ch.20 | 
 |     |  (PR) V18: More about tests and intervals  |  | Ch. 21| 
@@ -99,19 +99,19 @@ Week  | Video lectures | Class | Chapters or papers
 **Week 12** | | | |
 |5/20|  (PR) V19:Comparing groups  | | Ch. 22  |
 |    |  (PR) V20: Paired t-test |  | Ch. 23  |
-|5/22 |  (OF) A07: Central limit theorem  |  | |
+|5/22 |  (OF) A06: Probability models |   |  |
 **Week 13** | | | |
 |5/27 | (PR) V21: Comparing counts | | Ch. 24 |
 |     | (PR) V22: Inferences about regression |  | Ch. 25|
-|5/29 |  (OF) A08: Quiz review & survey making | | |
+|5/29 |  (OF) A07: Central limit theorem  |  | |
 **Week 14** | | | |
 |6/3 |(PR) V23: Analysis of Variance (ANOVA) |  | Ch. 26  |
 |     | (PR) V24: Multifactor ANOVA | | Ch. 27  |
-|6/5|  (OF) A9: t-test  | | | 
+|6/5|  (OF) A8: t-test  | | | 
 **Week 15** | | | |
 |6/10  | (PR) V25: Multiple regression | | Ch.28  |
 |    | (PR) V26: Multiple regression wisdom | | Ch. 29|
-|6/12 | (OF) A10: chi-square and regression | | |
+|6/12 | (OF) A9: chi-square and regression | | |
 **Week 16** | | | |
 |6/19 | Final | | |
 
